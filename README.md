@@ -8,9 +8,11 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
+</br>
+
 HashLib! is a fast and flexible library for Delphi, where are implemented most of common hash algorithms. It provides easy to use low and high level functions. I decided to write this lib because of lack of such things for Delphi and quite a bad quality of them (this lib contais parts being rewritten in assembler). This library was written in Delphi (tested on Delphi5, Delphi6, Delphi7). Also it works fine in C++ Builder 4 (and it should work on newer verions). Source code is included and could be modified without any limitations.
 
-</br>
+</br></br>
 
 ![Hash](https://github.com/user-attachments/assets/12ed2b90-198c-4ee1-bf86-b42ddb452156)
 
