@@ -7,7 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
+| 1.0.x   | :white_check_mark: Delphi7 Pro |
+| 1.0.x   | :white_check_mark: Delphi7 C++ Pro |
 
 ## Reporting a Vulnerability
 
